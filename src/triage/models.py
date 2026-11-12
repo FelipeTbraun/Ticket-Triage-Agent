@@ -1,7 +1,7 @@
 from datetime import date
 from enum import Enum
 
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 
 class Categoria(str, Enum):
@@ -22,6 +22,8 @@ class Prioridade(str, Enum):
 
 
 class Ticket(BaseModel):
+    """Um chamado de suporte, como vem do CSV."""
+
     id: int
     titulo: str
     descricao: str
@@ -29,7 +31,9 @@ class Ticket(BaseModel):
 
 
 class Classificacao(BaseModel):
+    """A resposta da IA sobre um chamado."""
+
     categoria: Categoria
     prioridade: Prioridade
-    resumo: str
-    acao_sugerida: str
+    resumo: str = Field(min_length=1)
+    acao_sugerida: str = Field(min_length=1)
