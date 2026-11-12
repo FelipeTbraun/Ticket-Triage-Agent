@@ -1,0 +1,51 @@
+id,titulo,descricao,data_abertura
+1,Computador não liga,"O computador da sala 12 não liga desde ontem. A luz do monitor acende, mas o gabinete não responde.",2026-11-03
+2,Sem acesso ao Wi-Fi,"Vários usuários do 2º andar não conseguem conectar na rede Wi-Fi desde as 8h.",2026-11-03
+3,Esqueci minha senha,"Preciso redefinir a senha do e-mail institucional.",2026-11-04
+4,Impressora com papel atolado,"A impressora do financeiro mostra erro de papel atolado, mas não há papel preso.",2026-11-04
+5,Sistema de notas fora do ar,"O sistema acadêmico retorna erro 500 para todos os professores. Aulas afetadas.",2026-11-04
+6,Mouse não funciona,"O mouse do notebook da secretaria parou de funcionar. Já troquei a pilha e nada.",2026-10-20
+7,Monitor piscando,"O monitor da biblioteca fica piscando e apagando a cada poucos minutos.",2026-10-20
+8,Urgente não abre o sistema,"nao abre o sistema URGENTE preciso lançar as notas hoje",2026-10-21
+9,Instalar pacote Office,"Preciso instalar o pacote Office no computador novo do laboratório 3.",2026-10-21
+10,Internet lenta,"A internet está muito lenta na sala dos professores desde segunda-feira.",2026-10-21
+11,Conta bloqueada,"Minha conta foi bloqueada depois de errar a senha várias vezes. Tenho aula em 30 minutos.",2026-10-22
+12,Projetor sem imagem,"O projetor da sala 8 liga mas não mostra imagem do notebook. O cabo HDMI já foi trocado.",2026-10-22
+13,Teclado com teclas falhando,"Algumas teclas do teclado da recepção não funcionam, principalmente a barra de espaço.",2026-10-22
+14,Não consigo imprimir,"Nao consigo imprimir nada. Aparece uma mensagem de erro mas não sei ler.",2026-10-23
+15,VPN não conecta,"Estou em casa e a VPN da instituição não conecta, dá erro de autenticação.",2026-10-23
+16,Servidor de arquivos inacessível,"A pasta compartilhada do setor financeiro não abre. Aparece que o caminho de rede não foi encontrado. O fechamento do mês é amanhã.",2026-10-23
+17,Alerta do antivírus,"O antivírus mostrou um alerta de ameaça no computador da coordenação e pediu para reiniciar.",2026-10-26
+18,Acesso ao sistema de folha,"Novo funcionário do RH precisa de acesso ao sistema de folha de pagamento. O gestor já autorizou.",2026-10-26
+19,Trocar mouse,"Gostaria de trocar o mouse da minha mesa, o scroll está falhando.",2026-10-26
+20,Tela azul no laboratório,"O computador do laboratório 2 mostrou uma tela azul e reiniciou três vezes hoje.",2026-10-26
+21,E-mail não envia,"Consigo receber e-mails normalmente, mas os que eu envio voltam com erro.",2026-10-27
+22,Ponto de rede sem sinal,"O ponto de rede da mesa 4 da secretaria não tem sinal. O cabo está conectado.",2026-10-27
+23,Sistema travando,"o sistema trava toda hora",2026-10-27
+24,Catraca não libera,"A catraca da entrada principal não está lendo os crachás dos alunos.",2026-10-28
+25,Câmeras de segurança offline,"Duas câmeras do estacionamento estão sem imagem desde ontem à noite.",2026-10-28
+26,Pedido de instalação de software,"Preciso do Visual Studio Code instalado para a aula de programação.",2026-10-28
+27,Senha do Wi-Fi de visitantes,"Qual é a senha do Wi-Fi para visitantes? Vamos receber uma palestra amanhã.",2026-10-29
+28,Computador muito lento,"O computador demora mais de 10 minutos para ligar e trava ao abrir qualquer programa.",2026-10-29
+29,Planilha corrompida,"A planilha de orçamento do setor não abre mais e mostra mensagem de arquivo corrompido. É a única cópia.",2026-10-29
+30,Telefone sem linha,"O telefone da recepção está sem tom de linha desde o começo da manhã.",2026-10-30
+31,Impressora nova não aparece,"Instalaram uma impressora nova no corredor, mas ela não aparece no meu computador.",2026-10-30
+32,Banco de dados fora do ar,"O sistema acadêmico não consegue conectar no banco de dados. A secretaria está sem poder matricular alunos.",2026-10-30
+33,Alterar nome no e-mail,"Preciso trocar o nome no meu e-mail institucional, casei e mudei de sobrenome.",2026-10-30
+34,Notebook não carrega,"O notebook do empréstimo não carrega, o carregador parece funcionar em outro aparelho.",2026-11-02
+35,Fone sem som,"Meu fone não dá som nas videochamadas, mas funciona no celular.",2026-11-02
+36,Propagandas no navegador,"Ficam aparecendo propagandas estranhas no navegador, mesmo sem eu abrir nenhum site.",2026-11-02
+37,Pasta sem permissão,"Tentei abrir a pasta do projeto compartilhada e apareceu acesso negado.",2026-11-02
+38,Wi-Fi caindo no auditório,"O Wi-Fi do auditório cai a cada 10 minutos durante as apresentações.",2026-11-03
+39,Atualização do Windows travada,"O computador está travado numa tela de atualização do Windows há mais de uma hora.",2026-11-03
+40,Parou de funcionar,"ontem funcionava hoje não. alguem ajuda",2026-11-03
+41,Backup falhou,"O relatório do backup noturno do servidor mostra falha nas últimas duas noites.",2026-11-03
+42,Programa para editar PDF,"Preciso de um programa para editar PDF no computador da diretoria.",2026-11-04
+43,Cartão do laboratório não abre,"O cartão de acesso do laboratório de informática parou de abrir a porta.",2026-11-04
+44,Tela do notebook rachada,"A tela do notebook caiu e rachou, mas ainda liga e funciona.",2026-11-04
+45,Lentidão no sistema de notas,"O sistema de notas está muito lento no fim da tarde, leva mais de um minuto para salvar.",2026-11-04
+46,Criar e-mail para estagiário,"Preciso de um e-mail institucional para o estagiário que começa na segunda.",2026-11-04
+47,Arquivos com extensão estranha,"Os arquivos do computador da contabilidade estão com extensão estranha e apareceu uma mensagem pedindo dinheiro.",2026-11-04
+48,Sala de servidores quente,"A sala dos servidores está muito quente e o ar condicionado parece desligado. Os equipamentos estão apitando.",2026-11-04
+49,Digital não reconhecida,"Preciso recadastrar minha digital no ponto eletrônico, o leitor não reconhece mais.",2026-11-04
+50,Mudança de mesa da coordenação,"Vamos mudar a mesa da coordenação de lugar na sexta e precisamos que o computador e o telefone sejam reinstalados.",2026-11-04
