@@ -7,7 +7,9 @@ from triage.providers.base import ErroProvedor, LimiteExcedido
 
 # Os nomes de modelo mudam com frequência. Confira o atual no Google AI Studio
 # e, se precisar, defina GEMINI_MODEL no arquivo .env.
-MODELO_PADRAO = "gemini-flash-latest"
+# Os nomes de modelo mudam com frequência. Confira o atual no Google AI Studio
+# e, se precisar, defina GEMINI_MODEL no arquivo .env.
+MODELO_PADRAO = "gemini-3.5-flash"
 
 
 class GeminiProvider:
